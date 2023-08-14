@@ -4,7 +4,7 @@ I am <b>Shakibul Alam</b>, a full-stack engineer from Dhaka, Bangladesh. Current
 <div>
     <a href="https://www.facebook.com/sakibul.alam.52" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="15"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/SakibA96902064" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="15"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/shakibul_official/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="15"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/md.shakibul.alam" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="15"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/shakibul-alam-abb906198" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="15"></a>&nbsp;&nbsp;
 <div>
 <h3><b>Skills I have</b></h3>

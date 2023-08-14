@@ -1,6 +1,6 @@
 <!-- <img src="https://scontent.fdac8-1.fna.fbcdn.net/v/t1.15752-9/248985518_383893316799318_4339245100228276783_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeHDSXvhRaFX-min81d4Y47kLTaxqI_YZR8tNrGoj9hlHwVh9jKa4VkdlKXue7CSNwqzMMa_htYcz3n9ofBmoyic&_nc_ohc=tbhFDJV3dQQAX_r56AT&_nc_ht=scontent.fdac8-1.fna&oh=f265dabafc2fcb695261e4baa8443390&oe=61A7720E" width="120"><br> -->
 ### Hi there 👋
-I am <b>Shakibul Alam</b>, a full-stack engineer from Dhaka,Bangladesh. Since the last 5 years, I have been working on Web & Mobile App Development for cross-platforms. Besides, I have started my own tech startup called EpikTheme (www.epiktheme.com), where I have provided my 400+ customers with top-quality software solutions and maintained good relationships.
+I am <b>Shakibul Alam</b>, a full-stack engineer from Dhaka, Bangladesh. Currently, I am working with web & cross-platform mobile apps development. Besides, I have started my own tech startup called EpikTheme (www.epiktheme.com), where I have provided my 400+ customers with top-quality software solutions and maintained good relationships.
 <div>
     <a href="https://www.facebook.com/sakibul.alam.52" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="15"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/SakibA96902064" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="15"></a>&nbsp;&nbsp;

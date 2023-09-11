@@ -14,6 +14,7 @@ I am <b>Shakibul Alam</b>, a Full-stack Engineer from Dhaka, Bangladesh. Current
         <li>Library : Jquery, Bootstrap</li>
         <li>Database : MySql, SQL, MongoDB</li>
         <li>Design Tools : Photoshop, Canva</li>
+        Proper knowledge in Git & GitHub</li>
     </ul>
 </div>
 <div>

@@ -1,6 +1,9 @@
 <!-- <img src="https://scontent.fdac8-1.fna.fbcdn.net/v/t1.15752-9/248985518_383893316799318_4339245100228276783_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeHDSXvhRaFX-min81d4Y47kLTaxqI_YZR8tNrGoj9hlHwVh9jKa4VkdlKXue7CSNwqzMMa_htYcz3n9ofBmoyic&_nc_ohc=tbhFDJV3dQQAX_r56AT&_nc_ht=scontent.fdac8-1.fna&oh=f265dabafc2fcb695261e4baa8443390&oe=61A7720E" width="120"><br> -->
 ### Hi there 👋
-I am <b>Shakibul Alam</b>, a Full-stack Engineer from Dhaka, Bangladesh. Currently, I am working with Web & Mobile Application Development. I have worked in top platforms like Themeforest, Envato & TemplateMonster. Besides, I have found a startup called EpikTheme (www.epiktheme.com), where I have provided my 400+ customers, over 21 different countries with top-quality software solutions and maintained good relationships.
+I am <b>Shakibul Alam</b>. Currently, I am working with Web & Cross-Platform Mobile Apps Development. I have experienced working on top platforms like Envato & TemplateMonster.
+
+Besides, I am leading a successful startup, EpikTheme.
+(www.epiktheme.com)
 <div>
         <a href="https://www.facebook.com/sakibul.alam.52" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100"></a>&nbsp;
         <a href="https://www.linkedin.com/in/shakibul-alam-abb906198" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"></a>&nbsp;

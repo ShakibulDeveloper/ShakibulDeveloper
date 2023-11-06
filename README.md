@@ -15,7 +15,8 @@ Besides, I am running a successful startup, EpikTheme (www.epiktheme.com)
         <li>Frameworks : Laravel, Flutter</li>
         <li>Library : Jquery, Bootstrap</li>
         <li>Database : MySql, SQL, MongoDB, Firebase</li>
-         <li>Sound knowledge on GETX, REST-API, MVC Architecture</li>   
+            <li>State Management: GetX</li>
+         <li>Sound idea on REST-API, MVC Architecture</li>   
         <li>Design Tools : Photoshop, Canva, Figma</li>
         <li>Proper knowledge in Git & GitHub</li>
     </ul>

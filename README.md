@@ -3,6 +3,8 @@
 I am <b>Shakibul Alam</b>. Currently, I am working with Web & Mobile Apps Development. I have 4+ years of experience working on top platforms like Envato & TemplateMonster.
 
 Besides, I am running a successful startup, EpikTheme (www.epiktheme.com)
+
+✉️👉 shakibul.dev@gmail.com
 <div>
         <a href="https://www.facebook.com/sakibul.alam.52" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100"></a>&nbsp;
         <a href="https://www.linkedin.com/in/shakibul-alam-abb906198" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"></a>&nbsp;

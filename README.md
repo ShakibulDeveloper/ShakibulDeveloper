@@ -1,10 +1,11 @@
 <!-- <img src="https://scontent.fdac8-1.fna.fbcdn.net/v/t1.15752-9/248985518_383893316799318_4339245100228276783_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeHDSXvhRaFX-min81d4Y47kLTaxqI_YZR8tNrGoj9hlHwVh9jKa4VkdlKXue7CSNwqzMMa_htYcz3n9ofBmoyic&_nc_ohc=tbhFDJV3dQQAX_r56AT&_nc_ht=scontent.fdac8-1.fna&oh=f265dabafc2fcb695261e4baa8443390&oe=61A7720E" width="120"><br> -->
 ### Hi there 👋
-I am <b>Shakibul Alam</b>. Currently, I am working with Web & Mobile Apps Development. I have 4+ years of experience working on top platforms like Envato & TemplateMonster.
+My name is Shakibul Alam, and I specialize in web and mobile apps design & development. With over three years of experience, I have contributed to top platforms such as Envato and TemplateMonster. 
 
-Besides, I am running a successful startup, EpikTheme (www.epiktheme.com)
-
-✉️ shakibul.dev@gmail.com
+In addition, I am the founder and CEO of EpikTheme, a thriving IT startup.
+<br>
+Visit our website: www.epiktheme.com
+Contact me: shakibul.dev@gmail.com
 <div>
         <a href="https://www.facebook.com/sakibul.alam.52" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100"></a>&nbsp;
         <a href="https://www.linkedin.com/in/shakibul-alam-abb906198" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"></a>&nbsp;

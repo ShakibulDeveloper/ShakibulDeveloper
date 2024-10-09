@@ -16,7 +16,7 @@ Contact me: shakibul.dev@gmail.com
     <ul>
         <li>Languages : PHP, Dart, JavaScript</li>
         <li>Frameworks : Laravel, Flutter</li>
-        <li>Library : Jquery, Bootstrap</li>
+        <li>Library : Jquery, Bootstrap, Tailwind</li>
         <li>Database : MySql, SQL, MongoDB, Firebase</li>
             <li>State-Management : GetX</li>
          <li>Sound idea on REST-API, MVC Architecture</li>   
@@ -30,6 +30,7 @@ Contact me: shakibul.dev@gmail.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="32"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="32"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="32"/> &nbsp;

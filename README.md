@@ -1,8 +1,8 @@
 <!-- <img src="https://scontent.fdac8-1.fna.fbcdn.net/v/t1.15752-9/248985518_383893316799318_4339245100228276783_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeHDSXvhRaFX-min81d4Y47kLTaxqI_YZR8tNrGoj9hlHwVh9jKa4VkdlKXue7CSNwqzMMa_htYcz3n9ofBmoyic&_nc_ohc=tbhFDJV3dQQAX_r56AT&_nc_ht=scontent.fdac8-1.fna&oh=f265dabafc2fcb695261e4baa8443390&oe=61A7720E" width="120"><br> -->
 ### Hi there 👋
-My name is Shakibul Alam, and I specialize in web and mobile apps design & development. With over three years of experience, I have contributed to top platforms such as Envato and TemplateMonster. 
+My name is Shakibul Alam. Currently, I am doing by bachelor's in Software Engineering with a major in Data Science at Daffodil International University.
 
-In addition, I am the founder and CEO of EpikTheme, a thriving IT startup.
+Besides, I am the founder of EpikTheme. My primary areas of interest include Web Engineering, Cross-Platform Technologies, Data Science, Machine Learning, and AI.
 <br>
 Visit our website: www.epiktheme.com<br>
 Contact me: shakibul.dev@gmail.com

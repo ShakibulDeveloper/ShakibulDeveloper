@@ -1,17 +1,10 @@
 <!-- <img src="https://scontent.fdac8-1.fna.fbcdn.net/v/t1.15752-9/248985518_383893316799318_4339245100228276783_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeHDSXvhRaFX-min81d4Y47kLTaxqI_YZR8tNrGoj9hlHwVh9jKa4VkdlKXue7CSNwqzMMa_htYcz3n9ofBmoyic&_nc_ohc=tbhFDJV3dQQAX_r56AT&_nc_ht=scontent.fdac8-1.fna&oh=f265dabafc2fcb695261e4baa8443390&oe=61A7720E" width="120"><br> -->
 ### Hi there 👋
-My name is Shakibul Alam. Currently, I am doing my bachelor's in Software Engineering (Major in Data Science) at Daffodil International University.
+I am Shakibul Alam, a full-stack software engineer interested in web design, backend and cross-platform application development.
 
-Besides, I am the founder of EpikTheme, An IT solution start-up that served over 400 clients over 20 different countries over the years.
-<br>
-Visit our website: www.epiktheme.com<br>
-Contact me: shakibul.dev@gmail.com
-<div>
-        <a href="https://www.facebook.com/sakibul.alam.52" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100"></a>&nbsp;
-        <a href="https://www.linkedin.com/in/shakibul-alam-abb906198" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"></a>&nbsp;
-    <a href="https://instagram.com/md.shakibul.alam" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="113"></a>&nbsp;
-        <a href="https://www.youtube.com/@codethestartup" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="98"></a>&nbsp;&nbsp;
-<div>
+Open to collaborations, freelance projects, and tech discussions!
+shakibul.dev@gmail.com
+
 <h3><b>Skills I have</b></h3>
     <ul>
         <li>Languages : PHP, Dart, JavaScript</li>
@@ -43,8 +36,3 @@ Contact me: shakibul.dev@gmail.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/> &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/> &nbsp
 </div>
-    <div>
-        <h3><b>My Stats</b></h3>
-    </div>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibulDeveloper&layout=compact)

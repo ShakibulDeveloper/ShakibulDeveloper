@@ -2,7 +2,7 @@
 ### Hi there 👋
 I am Shakibul Alam, a full-stack software engineer interested in frontend, backend and cross-platform application development.
 
-Open to collaborations, freelance projects, and tech discussions!
+Open to collaborations, freelance projects, remote jobs and tech discussions! <br>
 shakibul.dev@gmail.com
 
 <h3><b>Skills I have</b></h3>
